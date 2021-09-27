@@ -1,0 +1,6 @@
+*********************************************
+recursos de la pagina web
+*********************************************
+
+-lista de recursos:
+icomoon iconos de la pagina 

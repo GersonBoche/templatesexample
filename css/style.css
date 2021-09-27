@@ -1,0 +1,68 @@
+/*styles in cascading in the sheet code of the styles and attribute*/
+/*main code*/
+/*styles*/
+body, *{
+	/*important to have la page to zero of padding and margin*/
+	padding: 0;
+	margin: 0;
+	/*attribute tp browser */
+	/*main style */
+	/* standar */
+	box-sizing: border-box;
+    /* edge - safari */
+    -webkit-box-sizing: border-box;
+    /*mozilla - firefox*/
+    -moz-box-sizing: border-box;
+    /*opera*/
+    -o-box-sizing: border-box;
+    /* internet explore */
+    -ms-box-sizing: border-box;
+}
+/*styles before and after*/
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+/*selection*/
+::selection{
+    background: ;
+    color: ;
+}
+/* styles title and paragraphs */
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    line-height: normal;
+    color: #111111;
+}
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 22px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 13px;
+}
+/*styles to paragraphs*/
+p{
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    line-height: normal;
+    font-size: 12px;
+}
+
+/* links styles */
+a{
+    text-decoration: none;
+}

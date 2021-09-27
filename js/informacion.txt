@@ -1,0 +1,6 @@
+**************************************************
+javscript solo codigo de javascript 
+**************************************************
+
+-listado de codigos principales:
+script

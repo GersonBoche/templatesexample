@@ -1,0 +1,11 @@
+*******************************************
+librerias de la pagina web
+*******************************************
+
+-listado de librerias:
+bootstrap
+jquery javascript
+
+
+
+

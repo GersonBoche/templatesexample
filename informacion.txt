@@ -1,0 +1,35 @@
+**********************************************************
+Estructura de paginas web 
+**********************************************************
+
+-index
+-css
+-img
+-js
+-lib
+-php
+-resource
+-templates
+-gulpfile servicios de ejecucion de archivos
+
+/*instalacion de gulp y browsersync*/
+npm install -g gulp --clic
+npm install browsersync gulp --salve-dev 
+
+-css:archivos de estilos
+-js:archivos de codigo de javascript
+-img:imagenes
+-lib:librerias
+-php:archivos de codigo de php 
+-resource:recursos como iconos o videos u otras fuentes
+-templates:páginas auxiliares
+-gulpfile:conexion de servicios 
+
+
+
+
+
+
+
+
+
